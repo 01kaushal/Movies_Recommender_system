@@ -1,4 +1,5 @@
 ### [Movies_Recommender_system](https://01kaushal-movies-recommender-system-app-rgv7cq.streamlit.app/)
+A Movie Recommendation system is a system that provides movie suggestions to users based on some dataset. Such a system will predict what movies a user will like based on the attributes of previously liked movies by that user.
 
 
 ### Software And Tools Requirements
